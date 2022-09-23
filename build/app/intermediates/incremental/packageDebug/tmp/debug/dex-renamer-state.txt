@@ -1,0 +1,4 @@
+#Fri Sep 23 14:14:55 TRT 2022
+base.0=C\:\\Users\\irem.DESKTOP-2L5N4RM\\AndroidStudioProjects\\flutter_animated_bottom_navigation_bar\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
