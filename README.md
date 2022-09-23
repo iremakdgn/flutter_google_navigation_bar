@@ -1,4 +1,4 @@
-# flutter_animated_bottom_navigation_bar
+# flutter_google_navigation_bar
 
 A new Flutter project.
 
